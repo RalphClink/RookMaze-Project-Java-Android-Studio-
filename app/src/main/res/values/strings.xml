@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">RookMazeGame</string>
+    <string name="startGame_button">Start Game</string>
+    <string name="quitGame_button">Quit Game</string>
+    <string name="rookMazeGame_title">RookMazeGame</string>
+    <string name="rookMazeText" />
+    <string name="rookMazeLength" />
+    <string name="difficulty1_button">Easy</string>
+    <string name="difficulty2_button">Medium</string>
+    <string name="difficulty3_button">Hard</string>
+    <string name="levelName_textView_default">0</string>
+    <string name="mute_button">mute</string>
+    <string name="unmute_button">unmute</string>
+    <string name="moveCounter_default">0</string>
+    <string name="resetGame_button">Reset</string>
+    <string name="moveCounter_defaultM0ves">0 move(s)</string>
+    <string name="playVideo_default" />
+    <string name="playVideo_button">Play Instructional Video</string>
+    <string name="timer_textViewDefault">0</string>
+    <string name="timer_textView_default">0</string>
+</resources>
